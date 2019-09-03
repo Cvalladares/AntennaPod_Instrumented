@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals formatted="false" msgid="6044628401320465106" name="time_difference_short_days"><item quantity="one"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> दिन</item>
+<item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> दिन</item>
+</plurals>
+    <plurals formatted="false" msgid="9209554600411186949" name="time_difference_short_hours"><item quantity="one"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> घंटा</item>
+<item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> घंटे</item>
+</plurals>
+    <plurals formatted="false" msgid="6799968572793078120" name="time_difference_short_minutes"><item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> मि.</item>
+<item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> मि.</item>
+</plurals>
+    <plurals formatted="false" msgid="7958173734825557821" name="time_difference_words_days"><item quantity="one"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> दिन</item>
+<item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> दिन</item>
+</plurals>
+    <plurals formatted="false" msgid="6659708596739126724" name="time_difference_words_hours"><item quantity="one"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> घंटे</item>
+<item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> घंटे</item>
+</plurals>
+    <plurals formatted="false" msgid="5776851900234724977" name="time_difference_words_minutes"><item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> मि.</item>
+<item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> मि.</item>
+</plurals>
+    <string msgid="2797946772857096171" name="a11y_no_data">"कोई डेटा उपलब्ध नहीं है"</string>
+    <string msgid="4300397698563265356" name="a11y_no_permission">"डेटा इस्तेमाल करने की अनुमति नहीं है"</string>
+    <string msgid="1721092186473175874" name="a11y_template_range">"<ns1:g id="MAX">%2$f</ns1:g> में से <ns1:g id="VALUE">%1$f</ns1:g>"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर जाएं"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"सर्च करें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"आवाज़ सर्च"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके साथ शेयर करें"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> के साथ शेयर करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string msgid="2392275098186720450" name="buttons_rect_bottom_center">"निचला"</string>
+    <string msgid="8019030592199928760" name="buttons_rect_bottom_left">"निचला बायां"</string>
+    <string msgid="7032364303033228242" name="buttons_rect_bottom_right">"निचला दायां"</string>
+    <string msgid="8926393267810862702" name="buttons_rect_left_bottom">"नीचे बाईं ओर"</string>
+    <string msgid="8454996931469487054" name="buttons_rect_left_center">"मध्य में बाईं ओर"</string>
+    <string msgid="4253496812046397202" name="buttons_rect_left_top">"ऊपर बाईं ओर"</string>
+    <string msgid="2953342748755410698" name="buttons_rect_right_bottom">"नीचे दाईं ओर"</string>
+    <string msgid="6444930972483368545" name="buttons_rect_right_center">"मध्य में दाईं ओर"</string>
+    <string msgid="8233353769931572306" name="buttons_rect_right_top">"ऊपर दाईं ओर"</string>
+    <string msgid="701028376099498620" name="buttons_rect_top_center">"शीर्ष"</string>
+    <string msgid="2793005097226316833" name="buttons_rect_top_left">"ऊपर बाईं ओर"</string>
+    <string msgid="5242720590797179216" name="buttons_rect_top_right">"ऊपर दाईं ओर"</string>
+    <string msgid="1062213636886296984" name="buttons_round_bottom_center">"निचला"</string>
+    <string msgid="4240105703428240165" name="buttons_round_bottom_left">"निचला बायां"</string>
+    <string msgid="2170403244243537583" name="buttons_round_bottom_left_lower">"नीचे बायां, निचला"</string>
+    <string msgid="4971879160739362911" name="buttons_round_bottom_left_upper">"नीचे बायां, ऊपरी"</string>
+    <string msgid="3805017532700326567" name="buttons_round_bottom_right">"निचला दायां"</string>
+    <string msgid="6856386193261962647" name="buttons_round_bottom_right_lower">"नीचे दायां, निचला"</string>
+    <string msgid="3297691901098662241" name="buttons_round_bottom_right_upper">"नीचे दायां, ऊपरी"</string>
+    <string msgid="4180117237132291640" name="buttons_round_center_left">"मध्य में बाईं ओर"</string>
+    <string msgid="2372638721705594674" name="buttons_round_center_right">"मध्य में दाईं ओर"</string>
+    <string msgid="3660790088455649953" name="buttons_round_top_center">"शीर्ष"</string>
+    <string msgid="1548749953449352214" name="buttons_round_top_left">"ऊपर बाईं ओर"</string>
+    <string msgid="2662257990050998307" name="buttons_round_top_left_lower">"ऊपर बाईं ओर, निचला"</string>
+    <string msgid="8645976381442398995" name="buttons_round_top_left_upper">"ऊपर बाईं ओर, ऊपरी"</string>
+    <string msgid="223683024116278216" name="buttons_round_top_right">"ऊपर दाईं ओर"</string>
+    <string msgid="5362570598213836713" name="buttons_round_top_right_lower">"ऊपर दाईं ओर, निचला"</string>
+    <string msgid="8652947447241978294" name="buttons_round_top_right_upper">"ऊपर दाईं ओर, ऊपरी"</string>
+    <string msgid="4431314454967965046" name="dismiss_overlay_button_label">"छोड़ें"</string>
+    <string name="exo_controls_fastforward_description">तेज़ी से आगे बढ़ाएं</string>
+    <string name="exo_controls_fullscreen_description">फ़ुलस्क्रीन मोड</string>
+    <string name="exo_controls_next_description">अगला ट्रैक</string>
+    <string name="exo_controls_pause_description">रोकें</string>
+    <string name="exo_controls_play_description">चलाएं</string>
+    <string name="exo_controls_previous_description">पिछला ट्रैक</string>
+    <string name="exo_controls_repeat_all_description">सभी को दोहराएं</string>
+    <string name="exo_controls_repeat_off_description">किसी को न दोहराएं</string>
+    <string name="exo_controls_repeat_one_description">एक को दोहराएं</string>
+    <string name="exo_controls_rewind_description">पीछे ले जाएं</string>
+    <string name="exo_controls_shuffle_description">शफ़ल करें</string>
+    <string name="exo_controls_stop_description">बंद करें</string>
+    <string name="exo_download_completed">डाउनलोड पूरा हुआ</string>
+    <string name="exo_download_description">डाउनलोड करें</string>
+    <string name="exo_download_downloading">डाउनलोड हो रहा है</string>
+    <string name="exo_download_failed">डाउनलोड नहीं हो सका</string>
+    <string name="exo_download_notification_channel_name">डाउनलोड की गई मीडिया फ़ाइलें</string>
+    <string name="exo_download_removing">डाउनलोड की गई फ़ाइलें हटाई जा रही हैं</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f एमबीपीएस</string>
+    <string name="exo_track_mono">मोनो साउंड</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">अपने आप</string>
+    <string name="exo_track_selection_none">कोई नहीं</string>
+    <string name="exo_track_selection_title_audio">ऑडियो</string>
+    <string name="exo_track_selection_title_text">लेख</string>
+    <string name="exo_track_selection_title_video">वीडियो</string>
+    <string name="exo_track_stereo">स्टीरियो साउंड</string>
+    <string name="exo_track_surround">सराउंड साउंड</string>
+    <string name="exo_track_surround_5_point_1">5.1 सराउंड साउंड</string>
+    <string name="exo_track_surround_7_point_1">7.1 सराउंड साउंड</string>
+    <string name="exo_track_unknown">अज्ञात</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"बेहतर सेटिंग"</string>
+    <string msgid="4031765397716487527" name="generic_cancel">"रहने दें"</string>
+    <string msgid="9120485112909311969" name="generic_yes">"हां"</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"कास्ट बटन"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"कास्ट बटन. कनेक्ट हो गया"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"कास्ट बटन. कनेक्ट हो रहा है"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"कास्ट बटन. डिसकनेक्ट हो गया"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"डिवाइस ढूंढे जा रहे हैं"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"इस पर कास्‍ट करें"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"एल्बम आर्ट"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"स्क्रीन कास्ट की जा रही है"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"बंद करें"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"छोटा करें"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"डिसकनेक्ट करें"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"बड़ा करके देखें"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"कोई जानकारी मौजूद नहीं है"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"कोई मीडिया नहीं चुना गया"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"रोकें"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"चलाएं"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"बंद करें"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"कास्ट करना रोकें"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"आवाज़ बढ़ाने या घटाने वाला स्लाइडर"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"सिस्टम"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"डिवाइस"</string>
+    <string msgid="4674705273641635102" name="navigation_drawer_content_description">"मार्गदर्शक ड्रॉवर"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"सर्च"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="8966826895301384054" name="time_difference_now">"अभी"</string>
+    <string msgid="3432160628957797741" name="time_difference_short_days_and_hours">"<ns1:g id="SHORT_DAYS">%1$s</ns1:g> <ns1:g id="SHORT_HOURS">%2$s</ns1:g>"</string>
+    <string msgid="4219196550677438545" name="time_difference_short_hours_and_minutes">"<ns1:g id="SHORT_HOURS">%1$s</ns1:g> <ns1:g id="SHORT_MINUTES">%2$s</ns1:g>"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"बंद"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"चालू"</string>
+</resources>

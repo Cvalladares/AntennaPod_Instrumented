@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/13432330f23b063eaf99fd2e30ce6409/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

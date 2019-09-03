@@ -1,0 +1,6 @@
+# Referenced at /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/merged_manifests/freeDebug/AndroidManifest.xml:37
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/merged_manifests/freeDebug/AndroidManifest.xml:37
+-keep class de.danoeh.antennapod.PodcastApp { <init>(); }
+# Referenced at /home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/merged_manifests/freeDebug/AndroidManifest.xml:37
+-keep class de.danoeh.antennapod.core.backup.OpmlBackupAgent { <init>(); }

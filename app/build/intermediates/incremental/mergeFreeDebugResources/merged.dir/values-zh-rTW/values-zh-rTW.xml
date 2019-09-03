@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="downloads_left">
+    <item quantity="other">剩餘%d 個下載</item>
+  </plurals>
+    <plurals name="episode_cleanup_days_after_listening">
+    <item quantity="other">完成後%d 天</item>
+  </plurals>
+    <plurals formatted="false" msgid="6044628401320465106" name="time_difference_short_days"><item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g>天</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g>天</item>
+</plurals>
+    <plurals formatted="false" msgid="9209554600411186949" name="time_difference_short_hours"><item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g>小時</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g>小時</item>
+</plurals>
+    <plurals formatted="false" msgid="6799968572793078120" name="time_difference_short_minutes"><item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g>分鐘</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g>分鐘</item>
+</plurals>
+    <plurals formatted="false" msgid="7958173734825557821" name="time_difference_words_days"><item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> 天</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g> 天</item>
+</plurals>
+    <plurals formatted="false" msgid="6659708596739126724" name="time_difference_words_hours"><item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> 小時</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g> 小時</item>
+</plurals>
+    <plurals formatted="false" msgid="5776851900234724977" name="time_difference_words_minutes"><item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> 分鐘</item>
+<item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g> 分鐘</item>
+</plurals>
+    <string msgid="2797946772857096171" name="a11y_no_data">"沒有資料"</string>
+    <string msgid="4300397698563265356" name="a11y_no_permission">"無權存取資料"</string>
+    <string msgid="1721092186473175874" name="a11y_template_range">"<ns1:g id="VALUE">%1$f</ns1:g> (共 <ns1:g id="MAX">%2$f</ns1:g>)"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="about_pref">關於</string>
+    <string name="access_revoked_info">您已成功撤銷AntennaPod與您賬戶的關聯。要完成此流程，請您前往flattr的網站，在賬戶設置中也移除本應用的關聯。</string>
+    <string name="access_revoked_title">權限已撤銷</string>
+    <string name="action_forbidden_msg">AntennaPod沒有進行此操作的權限。可能是因為您賬戶與AntennaPod的關聯已被撤銷。您可以重新授權或通過網頁來操作。</string>
+    <string name="action_forbidden_title">操作被禁止</string>
+    <string name="activate_auto_download">激活自動下載</string>
+    <string name="add_feed_label">添加播客</string>
+    <string name="add_to_favorite_label">加入最愛</string>
+    <string name="add_to_queue_label">加入隊列</string>
+    <string name="added_to_favorites">已加入最愛</string>
+    <string name="added_to_queue_label">已加入隊列</string>
+    <string name="all_episodes_short_label">全部</string>
+    <string name="ascending">升序</string>
+    <string name="authenticate_label">授權</string>
+    <string name="authenticate_now_label">授權</string>
+    <string name="authentication_notification_msg">這個資源需要用戶名和密碼</string>
+    <string name="authentication_notification_title">需要授權</string>
+    <string name="auto_delete_label">自動刪除劇集</string>
+    <string name="auto_download_apply_to_items_message">新的 <i>自動下載</i> 設置將會自動套用值新的劇集。\n你想要將此設置套用至之前已發布的劇集嗎？</string>
+    <string name="auto_download_apply_to_items_title">應用至先前的劇集</string>
+    <string name="auto_download_label">加入自動下載</string>
+    <string name="browse_gpoddernet_label">瀏覽gpodder.net</string>
+    <string msgid="2392275098186720450" name="buttons_rect_bottom_center">"正下方"</string>
+    <string msgid="8019030592199928760" name="buttons_rect_bottom_left">"左下角"</string>
+    <string msgid="7032364303033228242" name="buttons_rect_bottom_right">"右下角"</string>
+    <string msgid="8926393267810862702" name="buttons_rect_left_bottom">"下方靠左"</string>
+    <string msgid="8454996931469487054" name="buttons_rect_left_center">"左側中央"</string>
+    <string msgid="4253496812046397202" name="buttons_rect_left_top">"上方靠左"</string>
+    <string msgid="2953342748755410698" name="buttons_rect_right_bottom">"下方靠右"</string>
+    <string msgid="6444930972483368545" name="buttons_rect_right_center">"右側中央"</string>
+    <string msgid="8233353769931572306" name="buttons_rect_right_top">"上方靠右"</string>
+    <string msgid="701028376099498620" name="buttons_rect_top_center">"正上方"</string>
+    <string msgid="2793005097226316833" name="buttons_rect_top_left">"左上角"</string>
+    <string msgid="5242720590797179216" name="buttons_rect_top_right">"右上角"</string>
+    <string msgid="1062213636886296984" name="buttons_round_bottom_center">"正下方"</string>
+    <string msgid="4240105703428240165" name="buttons_round_bottom_left">"左下方"</string>
+    <string msgid="2170403244243537583" name="buttons_round_bottom_left_lower">"左下方較低位置"</string>
+    <string msgid="4971879160739362911" name="buttons_round_bottom_left_upper">"左下方較高位置"</string>
+    <string msgid="3805017532700326567" name="buttons_round_bottom_right">"右下方"</string>
+    <string msgid="6856386193261962647" name="buttons_round_bottom_right_lower">"右下方較低位置"</string>
+    <string msgid="3297691901098662241" name="buttons_round_bottom_right_upper">"右下方較高位置"</string>
+    <string msgid="4180117237132291640" name="buttons_round_center_left">"左側中央"</string>
+    <string msgid="2372638721705594674" name="buttons_round_center_right">"右側中央"</string>
+    <string msgid="3660790088455649953" name="buttons_round_top_center">"正上方"</string>
+    <string msgid="1548749953449352214" name="buttons_round_top_left">"左上方"</string>
+    <string msgid="2662257990050998307" name="buttons_round_top_left_lower">"左上方較低位置"</string>
+    <string msgid="8645976381442398995" name="buttons_round_top_left_upper">"左上方較高位置"</string>
+    <string msgid="223683024116278216" name="buttons_round_top_right">"右上方"</string>
+    <string msgid="5362570598213836713" name="buttons_round_top_right_lower">"右上方較低位置"</string>
+    <string msgid="8652947447241978294" name="buttons_round_top_right_upper">"右上方較高位置"</string>
+    <string name="cancel_all_downloads_label">取消所有下載</string>
+    <string name="cancel_download_label">取消下載</string>
+    <string name="cancel_label">取消</string>
+    <string name="chapter_duration">時長： %1$s</string>
+    <string name="chapters_label">章節</string>
+    <string name="clear_history_label">清除歷史</string>
+    <string name="clear_queue_confirmation_msg">請確認您要清除隊列以及其中所有的劇集</string>
+    <string name="clear_queue_label">清除隊列</string>
+    <string name="close_label">關閉</string>
+    <string name="confirm_label">確定</string>
+    <string name="confirm_mobile_download_dialog_enable_temporarily">臨時允許</string>
+    <string name="confirm_mobile_download_dialog_message">通過移動數據下載是禁用的。\n\n您是否要臨時允許通過移動數據下載。\n\n<small>您的臨時決定有效期為10分鐘</small></string>
+    <string name="confirm_mobile_download_dialog_message_not_in_queue">通過移動數據下載是禁用的。\n\n您可以選擇添加本劇集到隊列或臨時允許通過移動數據下載。\n\n<small>您的臨時決定有效期為10分鐘</small></string>
+    <string name="confirm_mobile_download_dialog_only_add_to_queue">加入隊列</string>
+    <string name="confirm_mobile_download_dialog_title">確定使用移動數據下載</string>
+    <string name="copied_url_msg">複製鏈接到剪貼板</string>
+    <string name="copy_url_label">複製鏈接</string>
+    <string name="cover_label">圖片</string>
+    <string name="date">日期</string>
+    <string name="deactivate_auto_download">禁用自動下載</string>
+    <string name="delete_failed">刪除文件失敗。重啟設備試試看。</string>
+    <string name="delete_label">刪除</string>
+    <string name="descending">降序</string>
+    <string name="description_label">描述</string>
+    <string msgid="4431314454967965046" name="dismiss_overlay_button_label">"結束"</string>
+    <string name="download_canceled_autodownload_enabled_msg">下載已取消\n此項目的 <i>自動下載</i> 已禁用</string>
+    <string name="download_canceled_msg">下載已取消</string>
+    <string name="download_error_connection_error">鏈接錯誤</string>
+    <string name="download_error_db_access">數據庫存取錯誤</string>
+    <string name="download_error_device_not_found">沒找到儲存空間</string>
+    <string name="download_error_error_unknown">位置錯誤</string>
+    <string name="download_error_file_error">文件錯誤</string>
+    <string name="download_error_file_type_type">文件格式錯誤</string>
+    <string name="download_error_forbidden">禁止</string>
+    <string name="download_error_http_data_error">HTTP數據錯誤</string>
+    <string name="download_error_insufficient_space">儲存空間不足</string>
+    <string name="download_error_io_error">IO 錯誤</string>
+    <string name="download_error_malformed_url">鏈接格式不正確</string>
+    <string name="download_error_parser_exception">解析器異常</string>
+    <string name="download_error_request_error">請求錯誤</string>
+    <string name="download_error_unauthorized">授權失敗</string>
+    <string name="download_error_unknown_host">未知域名</string>
+    <string name="download_error_unsupported_type">未支援的播客源類型</string>
+    <string name="download_failed">失敗</string>
+    <string name="download_label">下載</string>
+    <string name="download_log_title_unknown">未知標題</string>
+    <string name="download_notification_title">播客數據下載中</string>
+    <string name="download_pending">下載等待中</string>
+    <string name="download_plugin_label">已下載的插件</string>
+    <string name="download_report_content">%1$d 個成功下載， %2$d 個失敗</string>
+    <string name="download_report_content_title">下載報告</string>
+    <string name="download_report_title">下載已完成，但可能有錯誤</string>
+    <string name="download_request_error_dialog_message_prefix">下載此文件時出錯：\u0020</string>
+    <string name="download_running">下載中</string>
+    <string name="download_successful">成功</string>
+    <string name="download_type_feed">播客源</string>
+    <string name="download_type_image">圖像</string>
+    <string name="download_type_media">媒體文件</string>
+    <string name="downloads_completed_label">已完成</string>
+    <string name="downloads_label">下載</string>
+    <string name="downloads_log_label">日誌</string>
+    <string name="downloads_processing">正在處理下載</string>
+    <string name="downloads_running_label">進行中</string>
+    <string name="drawer_close">關閉菜單</string>
+    <string name="drawer_feed_counter_downloaded">已下載的劇集數</string>
+    <string name="drawer_feed_counter_new">新劇集數</string>
+    <string name="drawer_feed_counter_new_unplayed">新增的未播放劇集數</string>
+    <string name="drawer_feed_counter_none">沒有</string>
+    <string name="drawer_feed_counter_unplayed">未播放劇集數</string>
+    <string name="drawer_feed_order_alphabetical">按字母表排序</string>
+    <string name="drawer_feed_order_last_update">按發布日期排序</string>
+    <string name="drawer_feed_order_most_played">按已播放的劇集數排序</string>
+    <string name="drawer_feed_order_unplayed_episodes">按數量排序</string>
+    <string name="drawer_open">打開菜單</string>
+    <string name="drawer_preferences">抽屜偏好設定</string>
+    <string name="duration">時長</string>
+    <string name="enable_sonic">啟用Sonic</string>
+    <string name="episode_cache_full_message">劇集快取已達最高限制。您可以在設置中提高快取的大小。</string>
+    <string name="episode_cache_full_title">劇集快取已滿</string>
+    <string name="episode_cleanup_after_listening">執行完畢後</string>
+    <string name="episode_cleanup_never">不要</string>
+    <string name="episode_cleanup_queue_removal">若不在隊列中</string>
+    <string name="episode_title">劇集標題</string>
+    <string name="episodes_label">集</string>
+    <string name="episodes_suffix">\u0020劇集</string>
+    <string name="error_label">錯誤</string>
+    <string name="error_msg_prefix">發生錯誤：</string>
+    <string name="etxtFeedurlHint">www.example.com/feed</string>
+    <string name="exo_controls_fastforward_description">快轉</string>
+    <string name="exo_controls_fullscreen_description">全螢幕模式</string>
+    <string name="exo_controls_next_description">下一首曲目</string>
+    <string name="exo_controls_pause_description">暫停</string>
+    <string name="exo_controls_play_description">播放</string>
+    <string name="exo_controls_previous_description">上一首曲目</string>
+    <string name="exo_controls_repeat_all_description">重複播放所有項目</string>
+    <string name="exo_controls_repeat_off_description">不重複播放</string>
+    <string name="exo_controls_repeat_one_description">重複播放單一項目</string>
+    <string name="exo_controls_rewind_description">倒轉</string>
+    <string name="exo_controls_shuffle_description">隨機播放</string>
+    <string name="exo_controls_stop_description">停止</string>
+    <string name="exo_download_completed">下載完成</string>
+    <string name="exo_download_description">下載</string>
+    <string name="exo_download_downloading">下載中</string>
+    <string name="exo_download_failed">無法下載</string>
+    <string name="exo_download_notification_channel_name">下載</string>
+    <string name="exo_download_removing">正在移除下載內容</string>
+    <string name="exo_item_list">%1$s、%2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">單聲道</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">自動</string>
+    <string name="exo_track_selection_none">無</string>
+    <string name="exo_track_selection_title_audio">音訊</string>
+    <string name="exo_track_selection_title_text">文字</string>
+    <string name="exo_track_selection_title_video">影片</string>
+    <string name="exo_track_stereo">立體聲</string>
+    <string name="exo_track_surround">環繞音效</string>
+    <string name="exo_track_surround_5_point_1">5.1 環繞音效</string>
+    <string name="exo_track_surround_7_point_1">7.1 環繞音效</string>
+    <string name="exo_track_unknown">不明</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"進階"</string>
+    <string name="external_storage_error_msg">外置空間不可用。請確保外置空間已掛載，這樣本軟體才能正常運行。</string>
+    <string name="favorite_episodes_label">最愛</string>
+    <string name="feed_auto_download_always">總是</string>
+    <string name="feed_auto_download_global">初始設置</string>
+    <string name="feed_auto_download_never">不要</string>
+    <string name="feeds_label">源</string>
+    <string name="feedurl_label">源鏈接</string>
+    <string name="filtered_label">已過濾</string>
+    <string name="flattr_auth_explanation">輕按下方按鈕開始授權流程。您將會在瀏覽器打開flattr的登錄頁並被要求授予AntennaPod關於flattr的權限。完成授權後，您將會自動回到本頁面。</string>
+    <string name="flattr_auth_label">Flattr 登錄</string>
+    <string name="flattr_auth_success">授權成功！您可以在本應用使用flatter的功能了。</string>
+    <string name="flattr_click_enqueued">稍後會被flattr</string>
+    <string name="flattr_click_failure">未能flattr %s。</string>
+    <string name="flattr_click_failure_count">未能 flattr %d 個事物！</string>
+    <string name="flattr_click_success">Flattr了一個事物！</string>
+    <string name="flattr_click_success_count">Flatter了 %d 個事物！</string>
+    <string name="flattr_click_success_queue">Flattr了： %s。</string>
+    <string name="flattr_label">Flattr</string>
+    <string name="flattr_retrieving_status">正在接收flattr的事物</string>
+    <string name="flattrd_failed_label">AntennaPod未能完成flattr</string>
+    <string name="flattrd_label">AntennaPod 完成 flattr</string>
+    <string name="flattring_label">AntennaPod 正在 flattr</string>
+    <string name="flattring_thing">Flattring %s</string>
+    <string name="free_space_label">%1$s 免費</string>
+    <string msgid="4031765397716487527" name="generic_cancel">"取消"</string>
+    <string msgid="9120485112909311969" name="generic_yes">"是"</string>
+    <string name="go_to_position_label">跳至此處</string>
+    <string name="gpodnet_auth_label">gpodder.net 登錄</string>
+    <string name="gpodnet_main_label">gpodder.net</string>
+    <string name="hide_downloaded_episodes_label">已下載</string>
+    <string name="hide_episodes_title">隱藏劇集</string>
+    <string name="hide_has_media_label">包含媒體</string>
+    <string name="hide_not_downloaded_episodes_label">未下載</string>
+    <string name="hide_not_queued_episodes_label">不在隊列</string>
+    <string name="hide_paused_episodes_label">暫停</string>
+    <string name="hide_played_episodes_label">已播放</string>
+    <string name="hide_queued_episodes_label">隊列</string>
+    <string name="hide_unplayed_episodes_label">未播放</string>
+    <string name="language_label">語言</string>
+    <string name="length_prefix">長度：\u0020</string>
+    <string name="loading_label">加載中……</string>
+    <string name="lock_queue">鎖定隊列</string>
+    <string name="mark_all_read_confirmation_msg">請確認你要將所有劇集標記為已播放。</string>
+    <string name="mark_all_read_label">全部標記為已播放</string>
+    <string name="mark_all_read_msg">全部劇集標記為已播放</string>
+    <string name="mark_all_seen_confirmation_msg">請確認你要將所有劇集標記為已讀。</string>
+    <string name="mark_all_seen_label">標記為已讀</string>
+    <string name="mark_read_label">標記為已播放</string>
+    <string name="mark_unread_label">標記為未播放</string>
+    <string name="marked_as_read_label">已標記為已播放</string>
+    <string name="marked_as_seen_label">標記為已讀</string>
+    <string name="most_recent_prefix">最新劇集：\u0020</string>
+    <string name="move_to_bottom_label">移動的底部</string>
+    <string name="move_to_top_label">移動到頂部</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"投放按鈕"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"投放按鈕；已連線"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"投放按鈕；連線中"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"投放按鈕；已中斷連線"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"正在尋找裝置"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"投放到"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"專輯封面"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"正在投放畫面"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"關閉"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"收合"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"中斷連線"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"展開"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"沒有可用的資訊"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"未選取任何媒體"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"暫停"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"播放"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"停止"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"停止投放"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"音量滑桿"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"系統"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"裝置"</string>
+    <string msgid="4674705273641635102" name="navigation_drawer_content_description">"導覽匣"</string>
+    <string name="new_label">新</string>
+    <string name="no">否</string>
+    <string name="no_chapters_label">本劇集沒有章節。</string>
+    <string name="no_flattr_token_msg">您的flattr賬戶似乎還未關聯至AntennaPod。您可以通過關聯flattr賬戶至AntennaPod來在本應用內部flatter東西，您也可以去通過網站flattr東西。</string>
+    <string name="no_flattr_token_notification_msg">您的flattr賬戶似乎還未關聯至AntennaPod。請按這裡來進行授權。</string>
+    <string name="no_flattr_token_title">未找到Flattr密鑰</string>
+    <string name="no_items_label">列表裡沒有項目。</string>
+    <string name="no_media_playing_label">播放完畢</string>
+    <string name="no_playback_plugin_or_sonic_msg">為了能以不同的速率播放，我們建議您啟用自帶的Sonic播放器 [Android 4.1+]。\n\n您也可以從谷歌市場下載第三方播放器 <i>Prestissimo</i> 。\nPrestissimo與AntennaPod無關.</string>
+    <string name="no_playback_plugin_title">插件未安裝</string>
+    <string name="no_shownotes_label">本劇集沒有筆記。</string>
+    <string name="open_in_browser_label">在瀏覽器中打開</string>
+    <string name="open_podcast">打開播客</string>
+    <string name="other_pref">其他</string>
+    <string name="parallel_downloads_suffix">\u0020同時下載</string>
+    <string name="pause_label">暫停</string>
+    <string name="play_label">播放</string>
+    <string name="playback_error_server_died">服務器未響應</string>
+    <string name="playback_error_unknown">未知錯誤</string>
+    <string name="playback_history_label">播放歷史</string>
+    <string name="playback_pref">播放</string>
+    <string name="playbackservice_notification_title">播客播放中</string>
+    <string name="player_buffering_msg">緩衝中</string>
+    <string name="player_error_msg">錯誤！</string>
+    <string name="player_preparing_msg">準備中</string>
+    <string name="player_ready_msg">準備</string>
+    <string name="player_seeking_msg">搜索中</string>
+    <string name="player_stopped_msg">播放完畢</string>
+    <string name="podcast_settings_label">設置</string>
+    <string name="podcastdirectories_descr">你可以按名字、類型或熱度在iTunes、fyyd或gpodder.net中搜索以添加新播客。</string>
+    <string name="podcastdirectories_label">在分類中查找鏈接</string>
+    <string name="pref_auto_delete_sum">播放完畢後刪除劇集</string>
+    <string name="pref_auto_delete_title">自動刪除</string>
+    <string name="pref_episode_cleanup_summary">如果自動下載需要空間用於新的劇集，則不在隊列中並且不是最愛的劇集將被移除。</string>
+    <string name="pref_episode_cleanup_title">劇集清理</string>
+    <string name="pref_favorite_keeps_episodes_sum">當標記為喜歡的，保持劇集</string>
+    <string name="pref_favorite_keeps_episodes_title">保持喜歡的劇集</string>
+    <string name="pref_followQueue_sum">當播放完畢時自動跳至列表中的下一個項目</string>
+    <string name="pref_hardwareForwardButtonSkips_title">快進按鈕跳過</string>
+    <string name="pref_hardwarePreviousButtonRestarts_sum">當按下一個實體鍵的後退按鈕時，重新播放本劇集而不是後退</string>
+    <string name="pref_hardwarePreviousButtonRestarts_title">後退鍵重新播放</string>
+    <string name="pref_pauseOnDisconnect_sum">耳機或藍牙斷開連接時暫停播放</string>
+    <string name="pref_skip_keeps_episodes_sum">當跳過時，保持劇集</string>
+    <string name="pref_skip_keeps_episodes_title">保持跳過的聚集</string>
+    <string name="pref_smart_mark_as_played_sum">即使播放時間少於特定秒數就離開，也標記劇集為已播放過。</string>
+    <string name="pref_smart_mark_as_played_title">智慧標記為已播放過</string>
+    <string name="pref_unpauseOnBluetoothReconnect_sum">當藍牙再次連接時繼續播放</string>
+    <string name="pref_unpauseOnHeadsetReconnect_sum">當耳機再次連接時繼續播放</string>
+    <string name="processing_label">處理中</string>
+    <string name="project_pref">項目</string>
+    <string name="queue_label">隊列</string>
+    <string name="queue_locked">隊列已鎖定</string>
+    <string name="queue_unlocked">隊列已解鎖</string>
+    <string name="refresh_failed_msg">{fa-exclamation-circle} 上次刷新失敗</string>
+    <string name="refresh_label">刷新</string>
+    <string name="remove_episode_lable">移除劇集</string>
+    <string name="remove_from_favorite_label">移出最愛</string>
+    <string name="remove_from_queue_label">從隊列移除</string>
+    <string name="remove_label">移除</string>
+    <string name="removed_from_favorites">已從最愛移除</string>
+    <string name="removed_from_queue">條目已移除</string>
+    <string name="removed_item">項目已移除</string>
+    <string name="reset">重置</string>
+    <string name="reset_position">重置播放位置</string>
+    <string name="retry_label">重試</string>
+    <string name="return_home_label">返回主頁</string>
+    <string name="save_username_password_label">保存用戶名和密碼</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string name="send_label">發送中……</string>
+    <string name="set_playback_speed_label">播放速度</string>
+    <string name="settings_label">設置</string>
+    <string name="share_feed_url_label">分享播客源鏈接</string>
+    <string name="share_file_label">分享文件</string>
+    <string name="share_label">分享</string>
+    <string name="share_url_label">分析鏈接</string>
+    <string name="show_info_label">顯示資料</string>
+    <string name="shownotes_label">顯示筆記</string>
+    <string name="size_prefix">大小：\u0020</string>
+    <string name="skip_episode_label">跳過劇集</string>
+    <string name="sort">排序</string>
+    <string name="statistics_details_dialog">%1$d/%2$d個劇集已開始。%3$s/%4$s已播放。</string>
+    <string name="statistics_label">統計</string>
+    <string name="statistics_mode">統計模式</string>
+    <string name="statistics_mode_count_all">累加所有標記為已播放的播客</string>
+    <string name="statistics_mode_normal">計算真實的播放時長。如果播放同一劇集兩遍，則會記錄兩遍的市場。如果只是標記為已播放，則不會被計入播放時長。</string>
+    <string name="statistics_speed_not_counted">注意：播放速度不被計入。</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_label">停止</string>
+    <string name="storage_pref">儲存空間</string>
+    <string name="stream_label">流</string>
+    <string name="subscriptions_label">訂閱</string>
+    <string name="subscriptions_list_label">訂閱列表</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>，<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Flattr this</string>
+    <string msgid="8966826895301384054" name="time_difference_now">"現在"</string>
+    <string msgid="3432160628957797741" name="time_difference_short_days_and_hours">"<ns1:g id="SHORT_DAYS">%1$s</ns1:g> <ns1:g id="SHORT_HOURS">%2$s</ns1:g>"</string>
+    <string msgid="4219196550677438545" name="time_difference_short_hours_and_minutes">"<ns1:g id="SHORT_HOURS">%1$s</ns1:g> <ns1:g id="SHORT_MINUTES">%2$s</ns1:g>"</string>
+    <string name="total_time_listened_to_podcasts">播客總播放時長：</string>
+    <string name="txtvfeedurl_label">添加播客鏈接</string>
+    <string name="undo">返回</string>
+    <string name="unknown_media_key">AntennaPod - 未知媒體鍵: %1$d</string>
+    <string name="unlock_queue">解鎖隊列</string>
+    <string name="url_label">鏈接</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"關閉"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"開啟"</string>
+    <string name="visit_website_label">訪問網站</string>
+    <string name="yes">是</string>
+</resources>

@@ -1,0 +1,7 @@
+#Sun Jul 21 18:04:00 CEST 2019
+base.0=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\Working\\AntennaPod\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\School Projects\\Thesis\\Selected_Repositories\\Instrumented\\Working\\AntennaPod\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\10

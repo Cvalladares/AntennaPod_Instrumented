@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="activate_auto_download">تفعيل التنزيل التلقائي</string>
+    <string name="add_feed_label">إضافة بودكاست</string>
+    <string name="add_to_favorite_label">اضافة للمفضلات</string>
+    <string name="added_to_favorites">تم اضافته للمفضلات</string>
+    <string name="all_episodes_short_label">الكل</string>
+    <string name="all_label">الكل</string>
+    <string name="authentication_label">تسجيل الدخول</string>
+    <string name="author_label">المؤلف</string>
+    <string name="auto_download_label">تضمين فى التنزيل التلقائي</string>
+    <string name="cancel_download_label">الغاء التنزيل</string>
+    <string name="cancel_label">الغاء</string>
+    <string name="chapters_label">فصول</string>
+    <string name="choose_data_directory">إختيار مستند البيانات</string>
+    <string name="choose_file_from_external_application">إستخدام تطبيق خارجي</string>
+    <string name="choose_file_from_filesystem">عبر ملف نظام داخلي </string>
+    <string name="clear_history_label">مسح الأرشيف</string>
+    <string name="close_label">اغلاق</string>
+    <string name="confirm_label">تأكيد</string>
+    <string name="copied_url_msg">تم نسخ الرابط للحافظة</string>
+    <string name="copy_url_label">انسخ رابط الموقع</string>
+    <string name="cover_label">صورة</string>
+    <string name="create_folder_label">أنشأ مستندا جديدا</string>
+    <string name="deactivate_auto_download">ايقاف التنزيل التلقائي</string>
+    <string name="description_label">وصف</string>
+    <string name="deselect_all_label">ألغ اختيار الكل</string>
+    <string name="download_error_connection_error">خطاء فى الاتصال</string>
+    <string name="download_error_device_not_found">حهاز التخزين غير موجود</string>
+    <string name="download_error_error_unknown">خطاء غير معروف</string>
+    <string name="download_error_file_error">خطاء فى الملف</string>
+    <string name="download_error_http_data_error">خطاء فى بيانات HTTP</string>
+    <string name="download_error_insufficient_space">مساحة غير كافية</string>
+    <string name="download_error_unauthorized">خطاء فى التحقق</string>
+    <string name="download_error_unknown_host">المضيف غير معروف</string>
+    <string name="download_failed">فشلت العملية</string>
+    <string name="download_pending">التنزيل فى الانتظار</string>
+    <string name="download_running">جارى التنزيل</string>
+    <string name="download_successful">نجحت العملية</string>
+    <string name="downloaded_label">تم التنزيل</string>
+    <string name="downloading_label">تحميل ...</string>
+    <string name="downloads_completed_label">اكتمل</string>
+    <string name="downloads_label">تنزيل</string>
+    <string name="downloads_log_label">سجل</string>
+    <string name="downloads_running_label">جارى التشغيل</string>
+    <string name="drawer_close">قائمة الاغلاف</string>
+    <string name="drawer_feed_counter_new">الاعداد الجديدة</string>
+    <string name="drawer_feed_counter_unplayed">الاعداد غير المقرؤة</string>
+    <string name="drawer_feed_order_alphabetical">ترتيب بالابجدية</string>
+    <string name="drawer_feed_order_last_update">ترتيب بتاريخ النشر</string>
+    <string name="drawer_feed_order_unplayed_episodes">ترتيب بالعداد</string>
+    <string name="drawer_open">قائمة الفتح</string>
+    <string name="enter_time_here_label">أدخل التوقيت</string>
+    <string name="episode_cache_full_message">لقد تم تجاوز الحد الأقصى لتخزين الحلقات. المرجو الرفع من قيمة التخزين في قائمة الإعدادات.</string>
+    <string name="episode_cache_full_title">ذاكرة تخزين الحلقات ممتلئة</string>
+    <string name="episode_cleanup_after_listening">بعد الانتهاء</string>
+    <string name="episode_cleanup_never">ابدا</string>
+    <string name="episodes_label">حلقات</string>
+    <string name="error_label">خطاء</string>
+    <string name="error_msg_prefix">حدث خطاء</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
+    <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_previous_description">المقطع الصوتي السابق</string>
+    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
+    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
+    <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_controls_rewind_description">إرجاع</string>
+    <string name="exo_controls_shuffle_description">ترتيب عشوائي</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_download_completed">اكتمل التنزيل</string>
+    <string name="exo_download_description">تنزيل</string>
+    <string name="exo_download_downloading">جارٍ التنزيل.</string>
+    <string name="exo_download_failed">تعذّر التنزيل</string>
+    <string name="exo_download_notification_channel_name">التنزيلات</string>
+    <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
+    <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
+    <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">تلقائي</string>
+    <string name="exo_track_selection_none">بدون اختيار</string>
+    <string name="exo_track_selection_title_audio">صوت</string>
+    <string name="exo_track_selection_title_text">نص</string>
+    <string name="exo_track_selection_title_video">فيديو</string>
+    <string name="exo_track_stereo">استريو</string>
+    <string name="exo_track_surround">صوت مجسّم</string>
+    <string name="exo_track_surround_5_point_1">صوت مجسّم 5.1</string>
+    <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
+    <string name="exo_track_unknown">غير معروف</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"إعدادات متقدمة"</string>
+    <string name="export_error_label">حدث خطأ أثناء التصدير</string>
+    <string name="export_ok">تم التصدير بنجاح</string>
+    <string name="export_success_title">تم التصدير بنجاح</string>
+    <string name="exporting_label">جار التصدير ...</string>
+    <string name="external_storage_error_msg">لا توجد ذاكرة خارجية متاحة. فضلا تاكد من اتاحة الذاكرة الخارجية للتطبيق حتى يعمل بصورة جيدة</string>
+    <string name="favorite_episodes_label">المفضلات</string>
+    <string name="feed_auto_download_always">دائما</string>
+    <string name="feed_auto_download_never">ابدا</string>
+    <string name="feed_update_receiver_name">تحديث التسجيل</string>
+    <string name="feeds_label">مغذيات</string>
+    <string name="free_space_label"> %1$s مجانا</string>
+    <string name="go_to_position_label">اذهب لهذا الموقع</string>
+    <string name="gpodnet_auth_label">تسجيل الدخول لموقع gpodder</string>
+    <string name="gpodnet_main_label">gpodder.net</string>
+    <string name="gpodnet_suggestions_header">إقتراحات</string>
+    <string name="gpodnet_summary">تزامن مع أجهزة أخرى</string>
+    <string name="gpodnet_taglist_header">الفئات</string>
+    <string name="gpodnet_toplist_header">أقوى البودكاستات</string>
+    <string name="gpodnetauth_device_butChoose">إختر</string>
+    <string name="gpodnetauth_device_butCreateNewDevice">أدخل جهازا جديدا</string>
+    <string name="gpodnetauth_device_chooseExistingDevice">اختر جهازا من القائمة: </string>
+    <string name="gpodnetauth_device_title">اختيار الأجهزة:</string>
+    <string name="gpodnetauth_finish_butgomainscreen">إذهب إلى الصفحة الرئيسية</string>
+    <string name="gpodnetauth_finish_title">لقد تم تسجيل الدخول بنجاح!</string>
+    <string name="gpodnetauth_login_butLabel">تسجيل الدخول</string>
+    <string name="gpodnetauth_login_title">تسجيل الدخول</string>
+    <string name="gpodnetsync_auth_error_descr">خطأ في إسم المستخدم أو كلمة المرور</string>
+    <string name="gpodnetsync_pref_report_successful">تم بنجاح</string>
+    <string name="hide_downloaded_episodes_label">تم التنزيل</string>
+    <string name="hide_not_downloaded_episodes_label">لم يتم التنزيل</string>
+    <string name="hide_paused_episodes_label">ايقاف مؤقت</string>
+    <string name="hide_unplayed_episodes_label">لم يتم تشغيله</string>
+    <string name="html_export_label">تصدير بصيغة HTML</string>
+    <string name="label_export">تصدير</string>
+    <string name="label_import">استيراد</string>
+    <string name="language_label">لغة</string>
+    <string name="load_next_page_label">تحميل الصفحة التالية</string>
+    <string name="loading_label">جارى التحميل ....</string>
+    <string name="mark_all_read_label">تعليمه ك تم تشغيله</string>
+    <string name="mark_all_seen_label">تعليمه ك تم مشاهدته</string>
+    <string name="mark_unread_label">تعليمه ك لم يتم تشغيله</string>
+    <string name="marked_as_read_label">تم تعليمه ك مشغل</string>
+    <string name="media_type_audio_label">صوت</string>
+    <string name="media_type_video_label">فيديو</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"زر الإرسال"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"زر الإرسال. تم الاتصال"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"زر الإرسال. جارٍ الاتصال"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"زر الإرسال. تم قطع الاتصال"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"جارٍ البحث عن أجهزة"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"إرسال إلى"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"صورة الألبوم"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"جارٍ إرسال الشاشة"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"إغلاق"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"تصغير"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"قطع اتصال"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"توسيع"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"لا تتوفر أي معلومات"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"لم يتم اختيار أي وسائط"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"إيقاف مؤقت"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"تشغيل"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"إيقاف"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"إيقاف الإرسال"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"شريط تمرير مستوى الصوت"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"النظام"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"الأجهزة"</string>
+    <string name="new_episodes_label">جديد</string>
+    <string name="new_label">جديد</string>
+    <string name="no">لا</string>
+    <string name="not_downloaded_label">لم يتم التنزيل</string>
+    <string name="notification_channel_downloading">تحميل</string>
+    <string name="notification_channel_error">الأخطاء</string>
+    <string name="notification_channel_playing">يشغل حاليا</string>
+    <string name="open_in_browser_label">افتح فى المتصفح</string>
+    <string name="opml_export_label">تصدير بصيغة OPML</string>
+    <string name="opml_import_error_no_file">لم يتم اختيار أي ملف</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="pause_label">ايقاف مؤقت</string>
+    <string name="play_label">تشغيل</string>
+    <string name="playback_error_unknown">خطاء غير معروف</string>
+    <string name="playback_history_label">أرشيف التشغيل</string>
+    <string name="podcast_settings_label">اعدادات</string>
+    <string name="processing_label">جارى المعالجة</string>
+    <string name="proxy_type_label">النوع</string>
+    <string name="refresh_label">تحديث</string>
+    <string name="remove_from_favorite_label">المسح من المفضلات</string>
+    <string name="remove_label">مسح</string>
+    <string name="removed_from_favorites">تم مسحه من المفضلات</string>
+    <string name="removed_from_queue">تم حزف العنصر</string>
+    <string name="removed_item">تم حزف العنصر</string>
+    <string name="reset">إعادة التعيين</string>
+    <string name="retry_label">اعادة المحاولة</string>
+    <string name="save_username_password_label">حفظ اسم وكلمة المرور</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="select_all_label">اختر الكل</string>
+    <string name="select_options_label">اختر...</string>
+    <string name="selected_all_label">إختيار كل الحلقات</string>
+    <string name="selected_folder_label">إختيار المستند:</string>
+    <string name="send_label">ارسال ...</string>
+    <string name="settings_label">إعدادات</string>
+    <string name="share_label">مشاركة</string>
+    <string name="share_link_label">مشاركة الرابط</string>
+    <string name="share_url_label">انشر رابط الموقع</string>
+    <string name="show_info_label">اظهار المعلومات</string>
+    <string name="statistics_label">إحصائيات</string>
+    <string name="statistics_mode">نمط الإحصائيات</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_label">ايقاف</string>
+    <string name="subscriptions_label">تسجيلات</string>
+    <string name="subscriptions_list_label">لائحة التسجيلات</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="synchronizing">المزامنة...</string>
+    <string name="time_hours">ساعات</string>
+    <string name="time_minutes">دقائق</string>
+    <string name="time_seconds">ثواني</string>
+    <string name="timer_vibration_label">تشغيل الهزاز</string>
+    <string name="total_time_listened_to_podcasts">مجموع وقت تشغيل البودكاستات:</string>
+    <string name="unplayed_label">لم يتم تشغيله</string>
+    <string name="url_label">عنوان الموقع</string>
+    <string name="username_label">إسم المستخدم</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"إيقاف"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"تفعيل"</string>
+    <string name="visit_website_label">زيارة الموقع</string>
+    <string name="volume">مستوى الصوت</string>
+    <string name="yes">نعم</string>
+</resources>

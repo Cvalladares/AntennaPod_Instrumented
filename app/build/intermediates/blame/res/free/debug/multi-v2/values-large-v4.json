@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/core/build/intermediates/packaged_res/free/debug/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,127,176,240",
+                        "endColumns": "71,48,63,58",
+                        "endOffsets": "122,171,235,294"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "591,663,712,776",
+                        "endColumns": "71,48,63,58",
+                        "endOffsets": "658,707,771,830"
+                    }
+                },
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/b5d23e850f4e80083ab5fa59d6bcb601/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "16,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "1055,1177",
+                        "endColumns": "121,133",
+                        "endOffsets": "1172,1306"
+                    }
+                },
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/13432330f23b063eaf99fd2e30ce6409/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,835,939",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,934,1050"
+                    }
+                },
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/3be95b3d9ef7667b2983fab3eedc81bf/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "58",
+                        "endOffsets": "586"
+                    }
+                }
+            ]
+        }
+    ]
+}

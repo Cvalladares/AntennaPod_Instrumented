@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/d2ad7ef279ca868ec6d753911f41cc1e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "412,487,565",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "482,560,635"
+                    }
+                },
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/b5d23e850f4e80083ab5fa59d6bcb601/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "793",
+                        "endLines": "15",
+                        "endColumns": "10",
+                        "endOffsets": "960"
+                    }
+                },
+                {
+                    "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/core/build/intermediates/packaged_res/free/debug/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,203",
+                        "endLines": "2,5",
+                        "endColumns": "147,12",
+                        "endOffsets": "198,351"
+                    },
+                    "to": {
+                        "startLines": "5,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,640",
+                        "endLines": "5,11",
+                        "endColumns": "147,12",
+                        "endOffsets": "407,788"
+                    }
+                },
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/13432330f23b063eaf99fd2e30ce6409/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

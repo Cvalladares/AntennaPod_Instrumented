@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Evə naviqasiya et"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yuxarı get"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Digər variantlar"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hazırdır"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Hamısına baxın"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Tətbiq seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEAKTİV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTİV"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"silin"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"daxil olun"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funksiya+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"kosmos"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menyu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Axtarış..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorğunu təmizlə"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Axtarış sorğusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Axtarış"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorğunu göndərin"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Səsli axtarış"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bununla paylaşın"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ilə paylaşın"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yığışdırın"</string>
+    <string name="about_pref">Proqram haqqinda</string>
+    <string name="access_revoked_info">AntennaPod\'un keçid tokeni uğurlu ləğv olundu.</string>
+    <string name="access_revoked_title">Keçid ləğv olundu</string>
+    <string name="action_forbidden_msg">Bu əməliyyat üçün AntennaPod\'un icazəsi yoxdur. AntennaPod\'un keçid tokenin ləğv olunması bunun səbəbi ola bilər. Yenə Flattra girin ya da podkastın səhifəsinə keçin.</string>
+    <string name="action_forbidden_title">Əməliyyat qadağan olundu</string>
+    <string name="add_to_queue_label">Növbəyə əlavə et</string>
+    <string name="authenticate_label">Gir</string>
+    <string name="authenticate_now_label">Gir</string>
+    <string name="author_label">Müəlif</string>
+    <string name="cancel_all_downloads_label">Yükləmələrin hamısını ləğv et</string>
+    <string name="cancel_download_label">Yükləməyi ləğv et</string>
+    <string name="cancel_label">Ləğv et</string>
+    <string name="chapters_label">Fəsillər</string>
+    <string name="choose_data_directory">Məlumat qovluqunu seç</string>
+    <string name="clear_history_label">Tarixiçəni sildir</string>
+    <string name="clear_queue_label">Növbəyi sil</string>
+    <string name="close_label">Bağla</string>
+    <string name="confirm_label">Oldu</string>
+    <string name="copied_url_msg">URL buferə köçürüldü</string>
+    <string name="copy_url_label">URLı kopiyala</string>
+    <string name="create_folder_error">Qovluq yaradılmadı</string>
+    <string name="create_folder_error_already_exists">Qovluq artiq var</string>
+    <string name="create_folder_error_no_write_access">Bu qovluqa yazıla bilinmer</string>
+    <string name="create_folder_label">Qovluqu yarat</string>
+    <string name="create_folder_msg">\"%1$s\" adlı qovluq yaradılsınmı?</string>
+    <string name="create_folder_success">Yeni qovluq yaradıldı</string>
+    <string name="deselect_all_label">Seçimi ləğv et</string>
+    <string name="disable_sleeptimer_label">Yuxu taymerini keçir</string>
+    <string name="download_canceled_msg">Yükləmə ləğv olundu</string>
+    <string name="download_error_connection_error">Əlaqə xətasi</string>
+    <string name="download_error_device_not_found">Yaddaş cihazı tapılmadı</string>
+    <string name="download_error_error_unknown">Naməlum xəta</string>
+    <string name="download_error_file_error">Fayl xətası</string>
+    <string name="download_error_http_data_error">HTTP protokolnun xətası</string>
+    <string name="download_error_insufficient_space">Yaddaş çatmır</string>
+    <string name="download_error_io_error">IO xətasi</string>
+    <string name="download_error_malformed_url">Yanlış URL</string>
+    <string name="download_error_parser_exception">Parserin xətası</string>
+    <string name="download_error_request_error">Tələbin xətası</string>
+    <string name="download_error_unknown_host">Naməlum xost</string>
+    <string name="download_error_unsupported_type">Naməlum kanal növü</string>
+    <string name="download_label">Yüklə</string>
+    <string name="download_log_title_unknown">Naməlum başliğ</string>
+    <string name="download_notification_title">Podkast məlumatların yüklənişi</string>
+    <string name="download_pending">Yükləmə gözlənir</string>
+    <string name="download_plugin_label">Plagin yüklə</string>
+    <string name="download_report_content">%1$d yükləmə uğurludur, %2$d uğursuzdur</string>
+    <string name="download_report_title">Yükləmə başa çatdı</string>
+    <string name="download_request_error_dialog_message_prefix">Fayl yükləmə xətası:\u0020</string>
+    <string name="download_running">Yükləmə gedir</string>
+    <string name="download_type_feed">Kanal</string>
+    <string name="download_type_image">Şəkil</string>
+    <string name="download_type_media">Mediya fayl</string>
+    <string name="downloads_label">Yükləmələr</string>
+    <string name="enter_time_here_label">Vaxtı yaz</string>
+    <string name="episodes_suffix">\u0020epizod</string>
+    <string name="error_label">Xəta</string>
+    <string name="error_msg_prefix">Xəta baş verdi:</string>
+    <string name="exo_controls_fastforward_description">İrəli çəkin</string>
+    <string name="exo_controls_fullscreen_description">Tam ekran rejimi</string>
+    <string name="exo_controls_next_description">Növbəti trek</string>
+    <string name="exo_controls_pause_description">Pauza</string>
+    <string name="exo_controls_play_description">Oxudun</string>
+    <string name="exo_controls_previous_description">Əvvəlki trek</string>
+    <string name="exo_controls_repeat_all_description">Hamısı təkrarlansın</string>
+    <string name="exo_controls_repeat_off_description">Heç biri təkrarlanmasın</string>
+    <string name="exo_controls_repeat_one_description">Biri təkrarlansın</string>
+    <string name="exo_controls_rewind_description">Geri çəkin</string>
+    <string name="exo_controls_shuffle_description">Qarışdırın</string>
+    <string name="exo_controls_stop_description">Dayandırın</string>
+    <string name="exo_download_completed">Endirmə tamamlandı</string>
+    <string name="exo_download_description">Endirin</string>
+    <string name="exo_download_downloading">Endirilir</string>
+    <string name="exo_download_failed">Endirmə alınmadı</string>
+    <string name="exo_download_notification_channel_name">Endirmələr</string>
+    <string name="exo_download_removing">Endirilənlər silinir</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Avtomatik</string>
+    <string name="exo_track_selection_none">Yoxdur</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Mətn</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Yüksək səs</string>
+    <string name="exo_track_surround_5_point_1">5.1 yüksək səs</string>
+    <string name="exo_track_surround_7_point_1">7.1 yüksək səs</string>
+    <string name="exo_track_unknown">Naməlum</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Qabaqcıl"</string>
+    <string name="export_error_label">İxracın xətası</string>
+    <string name="external_storage_error_msg">Heç bir yaddaş cihazı tapılmadı.</string>
+    <string name="feeds_label">Kanallar</string>
+    <string name="feedurl_label">Kanalın URLı</string>
+    <string name="flattr_auth_explanation">Girmə prosesini başlamaq üçün düyməyi basın. Flattrın giriş səhifəsinə aparılacağsınız.</string>
+    <string name="flattr_auth_label">Flattra gir</string>
+    <string name="flattr_auth_success">Giriş uğurludur! İndi tətbiqlədən Flattrla istifadə edə bilərsiniz.</string>
+    <string name="flattr_label">Flattr</string>
+    <string name="flattr_settings_label">Flattr parametrləri</string>
+    <string name="folder_not_empty_dialog_msg">Seçilən qovluq boş deyil. Mediya yükləmələr və başka fayllar bu qovluqa yazılacaqlar. Necə olsa davam olsunmu?</string>
+    <string name="folder_not_empty_dialog_title">Qovluq boş deyil</string>
+    <string name="found_in_chapters_label">Fəsillərdə tapıldı</string>
+    <string name="found_in_title_label">Başlığda tapıldı</string>
+    <string name="gpodnet_main_label">gpodder.net</string>
+    <string name="gpodnet_toplist_header">TOP PODKASTLAR</string>
+    <string name="language_label">Dil</string>
+    <string name="length_prefix">Müddət:\u0020</string>
+    <string name="mark_all_read_label">Hamısını oxunmuş kimi işarələ</string>
+    <string name="mark_read_label">Oxumuş kimi işarələ</string>
+    <string name="mark_unread_label">Oxunmamış kimi işarələ</string>
+    <string name="most_recent_prefix">Ən yeni epizod:\u0020</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Yayım düyməsi"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Yayım düyməsi. Qoşuldu"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Yayım düyməsi. Qoşulur"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Yayım düyməsi. Bağlantı kəsildi"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Cihazlar axtarılır"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Bura yayımlayın"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Albom incəsənəti"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Ekran yayımlanır"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Bağlayın"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Yığcamlaşdırın"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Əlaqəni silin"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Genişləndirin"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Əlçatan məlumat yoxdur"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Media seçilməyib"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Pauza"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Oyun"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Dayandırın"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Yayımı dayandırın"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Səs ayarlayıcısı"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Cihazlar"</string>
+    <string name="network_pref">Şəbəkə</string>
+    <string name="new_label">Yeni</string>
+    <string name="no_feeds_label">Hələ heç bir kanala yazilmadınız</string>
+    <string name="no_flattr_token_msg">Olsun ki sizin Flattr hesabınız AntennaPod\'a qoşulmadı. Yenə Flattra girin ya da podkastın səhifəsinə keçin.</string>
+    <string name="no_flattr_token_title">Heç bir Flattr tokeni tapılmadı</string>
+    <string name="no_items_label">Siyahıda heç nə yoxdur</string>
+    <string name="no_media_playing_label">Heç nə oynadılmır</string>
+    <string name="no_playback_plugin_title">Plagin yüklü deyil</string>
+    <string name="open_in_browser_label">Brauzerdə aç</string>
+    <string name="opml_directory_error">XƏTA!</string>
+    <string name="opml_export_label">OPML ixraçı</string>
+    <string name="opml_import_label">OPML idxalı</string>
+    <string name="other_pref">Başqa</string>
+    <string name="pause_label">Pauza</string>
+    <string name="play_label">Oynat</string>
+    <string name="playback_error_server_died">Server iştəmir</string>
+    <string name="playback_error_unknown">Naməlum xəta</string>
+    <string name="playback_history_label">Oynatma tarixiçəsi</string>
+    <string name="playback_pref">Oynatma</string>
+    <string name="playbackservice_notification_title">Podkast oynadılır</string>
+    <string name="player_buffering_msg">Buferləşmə</string>
+    <string name="player_error_msg">Xəta!</string>
+    <string name="player_preparing_msg">Hazırlanır</string>
+    <string name="player_ready_msg">Hazır</string>
+    <string name="player_seeking_msg">Axtarış</string>
+    <string name="player_stopped_msg">Heç nə oynadılmır</string>
+    <string name="podcast_settings_label">Parametrlər</string>
+    <string name="pref_autodl_wifi_filter_sum">Seçilən Wi-Fi səbəkələr vasitəsiilə avtomatik yükləməyi icazə ver</string>
+    <string name="pref_autodl_wifi_filter_title">Wi-Fi filtr</string>
+    <string name="pref_automatic_download_sum">Epizodların avtomatik yüklənişinin konfiqurasiyanı dəyiş</string>
+    <string name="pref_automatic_download_title">Avtomatik yükləmə</string>
+    <string name="pref_downloadMediaOnWifiOnly_sum">Təkçə Wi-Fi vasitəsiilə yüklə</string>
+    <string name="pref_downloadMediaOnWifiOnly_title">Wi-Fi vasitəsiilə yükləmə</string>
+    <string name="pref_episode_cache_title">Epizod keşi</string>
+    <string name="pref_episode_cache_unlimited">Hədsiz</string>
+    <string name="pref_flattr_auth_sum">Flattr\'la istifadə etmək üçün, öz Flattr hesabınıza girin</string>
+    <string name="pref_flattr_auth_title">Flattra gir</string>
+    <string name="pref_flattr_this_app_sum">Flattr vasitəsiilə AntennaPodun inkişafını dəstək edin. Sağolun!</string>
+    <string name="pref_flattr_this_app_title">Bu proqramı flattrla</string>
+    <string name="pref_followQueue_sum">Oynatma başa çatanda növbədə irəlidəki epizodu oynat</string>
+    <string name="pref_followQueue_title">Fasiləsiz oynatma</string>
+    <string name="pref_mobileUpdate_sum">Mobil şəbəbkə vasitəsiilə təzələməyə icazə vermək</string>
+    <string name="pref_mobileUpdate_title">Mobil şəbəbkə vasitəsiilə təzələmə</string>
+    <string name="pref_pauseOnHeadsetDisconnect_title">Qulaqliqı ayır</string>
+    <string name="pref_revokeAccess_sum">Flattr hesabına keçidi ləğv et</string>
+    <string name="pref_revokeAccess_title">Keçidi ləğv ət</string>
+    <string name="pref_set_theme_sum">AntennaPod\'un görüşünü dəyişdir</string>
+    <string name="pref_set_theme_title">Görüşü seç</string>
+    <string name="pref_theme_title_dark">Qara</string>
+    <string name="pref_theme_title_light">Ağ</string>
+    <string name="pref_update_interval_hours_manual">Əl ilə</string>
+    <string name="pref_update_interval_hours_plural">saat</string>
+    <string name="pref_update_interval_hours_singular">saat</string>
+    <string name="processing_label">Hazırlaşma</string>
+    <string name="queue_label">Növbə</string>
+    <string name="reading_opml_label">OPML faylın oxunması</string>
+    <string name="refresh_label">Təzələ</string>
+    <string name="refreshing_label">Təzələmə</string>
+    <string name="remove_from_queue_label">Növbədən sil</string>
+    <string name="remove_label">Sil</string>
+    <string name="removed_from_queue">Element silindi</string>
+    <string name="return_home_label">Baş ekrana dön</string>
+    <string name="search_label">Axtar</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Axtarış"</string>
+    <string name="search_status_no_results">Heç nə tapılmadı</string>
+    <string name="select_all_label">Hamısını seç</string>
+    <string name="selected_folder_label">Seçilən qovluq:</string>
+    <string name="set_sleeptimer_label">Yuxu taymerini qoy</string>
+    <string name="set_to_default_folder">Başlanğıc qovluqu seç</string>
+    <string name="settings_label">Parametrlər</string>
+    <string name="share_link_label">Web-səhifəyi paylaş</string>
+    <string name="share_url_label">URLı paylaş</string>
+    <string name="show_info_label">Məlumatı göstər</string>
+    <string name="shownotes_label">Təsvir</string>
+    <string name="size_prefix">Ölçü:\u0020</string>
+    <string name="skip_episode_label">Epizodu burax</string>
+    <string name="sleep_timer_label">Yuxu taymeri</string>
+    <string name="start_import_label">İdxalı başla</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stream_label">İnternetən yayimla</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Flattrla</string>
+    <string name="time_dialog_invalid_input">Yanlış yazi. Vaxt təkçə rəqmlərlə yazılır</string>
+    <string name="time_left_label">Vaxt galdı:\u0020</string>
+    <string name="undo">Qaytar</string>
+    <string name="user_interface_label">İnterfeys</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DEAKTİV"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AKTİV"</string>
+    <string name="visit_website_label">Web-səhifəsini aç</string>
+</resources>

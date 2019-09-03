@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1070296,"versionName":"1.7.2b","enabled":true,"outputFile":"app-free-debug.apk","fullName":"freeDebug","baseName":"free-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"de.danoeh.antennapod.debug","split":"","minSdkVersion":"19"}}]

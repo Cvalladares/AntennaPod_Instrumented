@@ -1,0 +1,233 @@
+plugins {
+    id('com.github.triplet.play') version '2.2.0'
+}
+
+apply plugin: "com.android.application"
+apply plugin: 'com.getkeepsafe.dexcount'
+
+import org.apache.tools.ant.filters.ReplaceTokens
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary true
+        // Version code schema:
+        // "1.2.3-SNAPSHOT" -> 1020300
+        // "1.2.3-RC4"      -> 1020304
+        // "1.2.3"          -> 1020395
+        versionCode 1070296
+        versionName "1.7.2b"
+        testApplicationId "de.test.antennapod"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        generatedDensities = []
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = [ eventBusIndex : 'de.danoeh.antennapod.ApEventBusIndex' ]
+            }
+        }
+    }
+
+    signingConfigs {
+        releaseConfig {
+            if (project.hasProperty("releaseStoreFile")) {
+                storeFile file(releaseStoreFile)
+            } else {
+                storeFile file("keystore")
+            }
+            if (project.hasProperty("releaseStorePassword")) {
+                storePassword releaseStorePassword
+            } else {
+                storePassword "password"
+            }
+            if (project.hasProperty("releaseKeyAlias")) {
+                keyAlias releaseKeyAlias
+            } else {
+                keyAlias "alias"
+            }
+            if (project.hasProperty("releaseKeyPassword")) {
+                keyPassword releaseKeyPassword
+            } else {
+                keyPassword "password"
+            }
+        }
+    }
+
+    buildTypes {
+        def STRING = "String"
+        def FLATTR_APP_KEY = "FLATTR_APP_KEY"
+        def FLATTR_APP_SECRET = "FLATTR_APP_SECRET"
+        def mFlattrAppKey = (project.hasProperty("flattrAppKey")) ? flattrAppKey : "\"\""
+        def mFlattrAppSecret = (project.hasProperty("flattrAppSecret")) ? flattrAppSecret : "\"\""
+
+        debug {
+            applicationIdSuffix ".debug"
+            resValue "string", "provider_authority", "de.danoeh.antennapod.debug.provider"
+            buildConfigField STRING, FLATTR_APP_KEY, mFlattrAppKey
+            buildConfigField STRING, FLATTR_APP_SECRET, mFlattrAppSecret            
+            dexcount {
+                if (project.hasProperty("enableDexcountInDebug")) {
+                    runOnEachPackage enableDexcountInDebug.toBoolean()
+                } else { // default to not running dexcount
+                    runOnEachPackage false                 
+                }
+            }
+        }
+        release {
+            resValue "string", "provider_authority", "de.danoeh.antennapod.provider"
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), "proguard.cfg"
+            signingConfig signingConfigs.releaseConfig
+            buildConfigField STRING, FLATTR_APP_KEY, mFlattrAppKey
+            buildConfigField STRING, FLATTR_APP_SECRET, mFlattrAppSecret
+        }
+    }
+
+    packagingOptions {
+        exclude "META-INF/LICENSE.txt"
+        exclude "META-INF/NOTICE.txt"
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    aaptOptions {
+        additionalParameters "--no-version-vectors"
+    }
+
+    testOptions {
+        animationsDisabled = true
+    }
+
+    flavorDimensions "market"
+    productFlavors {
+        free {
+            dimension "market"
+        }
+        play {
+            dimension "market"
+        }
+    }
+
+    dexOptions {
+        jumboMode true
+    }
+}
+
+dependencies {
+    freeImplementation project(":core")
+    // free build hack: skip some dependencies
+    if (!doFreeBuild()) {
+        playImplementation project(":core")
+    } else {
+        System.out.println("app: free build hack, skipping some dependencies")
+    }
+    implementation "androidx.legacy:legacy-support-v4:1.0.0"
+    implementation "androidx.appcompat:appcompat:1.0.0"
+    implementation "com.google.android.material:material:1.0.0"
+    implementation "androidx.legacy:legacy-preference-v14:1.0.0"
+    implementation "androidx.gridlayout:gridlayout:1.0.0"
+    implementation "androidx.recyclerview:recyclerview:1.0.0"
+    compileOnly 'com.google.android.wearable:wearable:2.2.0'
+
+    // ViewModel and LiveData
+    implementation "androidx.lifecycle:lifecycle-extensions:2.0.0"
+    annotationProcessor "androidx.lifecycle:lifecycle-compiler:2.0.0"
+
+    implementation "org.apache.commons:commons-lang3:$commonslangVersion"
+    implementation("org.shredzone.flattr4j:flattr4j-core:$flattr4jVersion") {
+        exclude group: "org.json", module: "json"
+    }
+    implementation "commons-io:commons-io:$commonsioVersion"
+    implementation "org.jsoup:jsoup:$jsoupVersion"
+
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    annotationProcessor 'androidx.annotation:annotation:1.1.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
+    implementation "com.squareup.okhttp3:okhttp-urlconnection:$okhttpVersion"
+    implementation "com.squareup.okio:okio:$okioVersion"
+    implementation "org.greenrobot:eventbus:$eventbusVersion"
+    annotationProcessor "org.greenrobot:eventbus-annotation-processor:$eventbusVersion"
+    implementation "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
+    implementation "io.reactivex.rxjava2:rxjava:$rxJavaVersion"
+
+    implementation "com.joanzapata.iconify:android-iconify-fontawesome:$iconifyVersion"
+    implementation "com.joanzapata.iconify:android-iconify-material:$iconifyVersion"
+    implementation("com.afollestad.material-dialogs:commons:$materialDialogsVersion") {
+        transitive = true
+    }
+    implementation "com.yqritc:recyclerview-flexibledivider:$recyclerviewFlexibledividerVersion"
+    implementation("com.githang:viewpagerindicator:2.5.1@aar") {
+        exclude module: "support-v4"
+    }
+
+    implementation "com.github.shts:TriangleLabelView:$triangleLabelViewVersion"
+    implementation 'com.leinardi.android:speed-dial:1.0.2' // 1.0.2 uses support 27.1.1 ; newer versions use 28.0.0;
+
+    implementation "com.github.AntennaPod:AntennaPod-AudioPlayer:$audioPlayerVersion"
+
+    implementation 'com.github.mfietz:fyydlin:v0.4.2'
+    implementation 'com.github.ByteHamster:SearchPreference:v1.2.5'
+    implementation "org.awaitility:awaitility:$awaitilityVersion"
+
+    androidTestImplementation "com.jayway.android.robotium:robotium-solo:$robotiumSoloVersion"
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.1.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-intents:3.1.0'
+    androidTestImplementation 'androidx.test:runner:1.1.0'
+    androidTestImplementation 'androidx.test:rules:1.1.0'
+    implementation project(path: ':android_prefetching_lib')
+}
+
+play {
+    track = 'alpha'
+
+    if (project.hasProperty("antennaPodServiceAccountEmail")) {
+        serviceAccountEmail = antennaPodServiceAccountEmail
+    } else {
+        serviceAccountEmail = '522080222319-compute@developer.gserviceaccount.com'
+    }
+    if (project.hasProperty("antennaPodPk12File")) {
+        serviceAccountCredentials = file(antennaPodPk12File)
+    } else {
+        serviceAccountCredentials = file('../serviceaccount-c3d7d0f61387.p12')
+    }
+}
+
+// about.html is templatized so that we can automatically insert
+// our version string in to it at build time.
+task filterAbout {
+    inputs.files files(["src/main/templates/about.html",
+                        "src/main/AndroidManifest.xml"])
+    outputs.file "src/main/assets/about.html"
+} doLast {
+    copy {
+        from "src/main/templates/about.html"
+        into "src/main/assets"
+        filter(ReplaceTokens, tokens: [versionname: android.defaultConfig.versionName,
+                                       commit     : "git rev-parse --short HEAD".execute().text,
+                                       year       : new Date().format('yyyy')])
+    }
+}
+
+task copyTextFiles(type: Copy) {
+    from "../CONTRIBUTORS"
+    from "../LICENSE"
+    into "src/main/assets/"
+    rename { String fileName ->
+        fileName + ".txt"
+    }
+}
+
+preBuild.dependsOn filterAbout, copyTextFiles
+

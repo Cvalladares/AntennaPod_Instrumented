@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/ed430a00f9a95625cb27580d7adcdf0e/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/christian/.gradle/caches/transforms-2/files-2.1/13432330f23b063eaf99fd2e30ce6409/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "837",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1005"
+                    }
+                },
+                {
+                    "source": "/home/christian/Documents/School Projects/Thesis/Selected_Repositories/Instrumented/Working/AntennaPod/core/build/intermediates/packaged_res/free/debug/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,456",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "451,766"
+                    },
+                    "to": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,522",
+                        "endLines": "9,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "517,832"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="episode_cleanup_days_after_listening">
+    <item quantity="one">ముగించిన 1 రోజు తర్వాత</item>
+    <item quantity="other">ముగించిన %d రోజుల తర్వాత</item>
+  </plurals>
+    <plurals name="time_hours_quantified">
+    <item quantity="one">1 గంట</item>
+    <item quantity="other">%d గంటలు</item>
+  </plurals>
+    <plurals name="time_minutes_quantified">
+    <item quantity="one">1 నిమిషం</item>
+    <item quantity="other">%d నిమిషాలు</item>
+  </plurals>
+    <plurals name="time_seconds_quantified">
+    <item quantity="one">1 క్షణం</item>
+    <item quantity="other">%d క్షణాలు</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"హోమ్‌కు నావిగేట్ చేయండి"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"పైకి నావిగేట్ చేయండి"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"మరిన్ని ఎంపికలు"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"పూర్తయింది"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"అన్నీ చూడండి"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"అనువర్తనాన్ని ఎంచుకోండి"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ఆఫ్ చేయి"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ఆన్ చేయి"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"స్పేస్"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"వెతుకు..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ప్రశ్నను క్లియర్ చేయి"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ప్రశ్న శోధించండి"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"వెతుకు"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ప్రశ్నని సమర్పించు"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"వాయిస్ శోధన"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"వీరితో భాగస్వామ్యం చేయి"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>తో భాగస్వామ్యం చేయండి"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"కుదించండి"</string>
+    <string name="about_pref">గురించి</string>
+    <string name="all_episodes_short_label">అన్నీ</string>
+    <string name="all_label">అన్నీ</string>
+    <string name="ascending">ఆరోహణ</string>
+    <string name="cancel_download_label">దింపుకోలును\nరద్దుచేయి</string>
+    <string name="cancel_label">రద్దుచేయి</string>
+    <string name="chapter_duration">నిడివి: %1$s</string>
+    <string name="chapters_label">చాప్టర్లు</string>
+    <string name="clear_history_label">చరిత్రను తుడిచివేయి</string>
+    <string name="close_label">మూసివేయి</string>
+    <string name="confirm_label">నిర్ధారించు</string>
+    <string name="cover_label">బొమ్మ</string>
+    <string name="date">తేదీ</string>
+    <string name="delete_label">తొలగించు</string>
+    <string name="descending">అవరోహణ</string>
+    <string name="description_label">వివరణ</string>
+    <string name="download_error_details">వివరాలు</string>
+    <string name="download_label">దింపుకో</string>
+    <string name="download_type_feed">ఫీడు</string>
+    <string name="downloads_completed_label">పూర్తయినవి</string>
+    <string name="downloads_label">దింపుకోళ్ళు</string>
+    <string name="downloads_log_label">చిట్టా</string>
+    <string name="downloads_running_label">నడుస్తున్నవి</string>
+    <string name="drawer_close">మెనూని మూసివేయి</string>
+    <string name="drawer_feed_counter_none">ఏమీలేవు</string>
+    <string name="drawer_open">మెనూని తెరువు</string>
+    <string name="duration">నిడివి</string>
+    <string name="episodes_label">ఎపిసోడులు</string>
+    <string name="episodes_suffix">\u0020ఎపిసోడులు</string>
+    <string name="error_label">పొరపాటు</string>
+    <string name="error_msg_prefix">పొరపాటు జరిగింది:</string>
+    <string name="etxtFeedurlHint">www.example.com/feed</string>
+    <string name="exo_controls_fastforward_description">వేగంగా ఫార్వార్డ్ చేయండి</string>
+    <string name="exo_controls_fullscreen_description">పూర్తి స్క్రీన్ మోడ్</string>
+    <string name="exo_controls_next_description">తదుపరి ట్రాక్</string>
+    <string name="exo_controls_pause_description">పాజ్ చేయండి</string>
+    <string name="exo_controls_play_description">ప్లే చేయండి</string>
+    <string name="exo_controls_previous_description">మునుపటి ట్రాక్</string>
+    <string name="exo_controls_repeat_all_description">అన్నింటినీ పునరావృతం చేయండి</string>
+    <string name="exo_controls_repeat_off_description">దేన్నీ పునరావృతం చేయకండి</string>
+    <string name="exo_controls_repeat_one_description">ఒకదాన్ని పునరావృతం చేయండి</string>
+    <string name="exo_controls_rewind_description">రివైండ్ చేయండి</string>
+    <string name="exo_controls_shuffle_description">షఫుల్ చేయండి</string>
+    <string name="exo_controls_stop_description">ఆపండి</string>
+    <string name="exo_download_completed">డౌన్‌లోడ్ పూర్తయింది</string>
+    <string name="exo_download_description">డౌన్‌లోడ్ చేయి</string>
+    <string name="exo_download_downloading">డౌన్‌లోడ్ చేస్తోంది</string>
+    <string name="exo_download_failed">డౌన్‌లోడ్ విఫలమైంది</string>
+    <string name="exo_download_notification_channel_name">డౌన్‌లోడ్‌లు</string>
+    <string name="exo_download_removing">డౌన్‌లోడ్‌లను తీసివేస్తోంది</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">మోనో</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">స్వీయ</string>
+    <string name="exo_track_selection_none">ఏదీ కాదు</string>
+    <string name="exo_track_selection_title_audio">ఆడియో</string>
+    <string name="exo_track_selection_title_text">వచనం</string>
+    <string name="exo_track_selection_title_video">వీడియో</string>
+    <string name="exo_track_stereo">స్టీరియో</string>
+    <string name="exo_track_surround">సరౌండ్ ధ్వని</string>
+    <string name="exo_track_surround_5_point_1">5.1 సరౌండ్ ధ్వని</string>
+    <string name="exo_track_surround_7_point_1">7.1 సరౌండ్ ధ్వని</string>
+    <string name="exo_track_unknown">తెలియదు</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"అధునాతన"</string>
+    <string name="experimental_pref">ప్రయోగాత్మకం</string>
+    <string name="export_ok">ఎగుమతి విజయవంతం.</string>
+    <string name="favorite_episodes_label">ఇష్టాలు</string>
+    <string name="feed_auto_download_always">ఎల్లప్పుడూ</string>
+    <string name="feeds_label">ఫీడులు</string>
+    <string name="feedurl_label">ఫీడు చిరునామా</string>
+    <string name="folder_not_empty_dialog_title">సంచయం ఖాళీగా లేదు</string>
+    <string name="free_space_label">%1$s ఖాళీ</string>
+    <string name="gpodnet_auth_label">gpodder.net ప్రవేశం</string>
+    <string name="gpodnet_main_label">gpodder.net</string>
+    <string name="gpodnet_suggestions_header">సలహాలు</string>
+    <string name="gpodnet_taglist_header">వర్గాలు</string>
+    <string name="gpodnet_toplist_header">మేటి పాడ్‌కాస్టులు</string>
+    <string name="gpodnetsync_pref_report_failed">విఫలమైంది</string>
+    <string name="gpodnetsync_pref_report_successful">విజయవంతం</string>
+    <string name="label_export">దిగుమతి</string>
+    <string name="label_import">దిగుమతి</string>
+    <string name="language_label">భాష</string>
+    <string name="length_prefix">నిడివి:\u0020</string>
+    <string name="loading_label">వస్తోంది…</string>
+    <string name="most_recent_prefix">అత్యంత ఇటీవలి ఎపిసోడు:\u0020</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Cast బటన్"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Cast బటన్. కనెక్ట్ చేయబడింది"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Cast బటన్. కనెక్ట్ చేస్తోంది"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Cast బటన్. డిస్‌కనెక్ట్ చేయబడింది"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"పరికరాలను కనుగొంటోంది"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"దీనికి ప్రసారం చేయండి"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"ఆల్బమ్ ఆర్ట్"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"స్క్రీన్‌ను ప్రసారం చేస్తోంది"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"మూసివేయి"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"కుదించు"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"డిస్‌కనెక్ట్ చేయి"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"విస్తరించు"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"సమాచారం అందుబాటులో లేదు"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"మీడియా ఏదీ ఎంచుకోలేదు"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"పాజ్ చేయి"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"ఆడండి"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"ఆపు"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"ప్రసారాన్ని ఆపివేయి"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"వాల్యూమ్ స్లయిడర్"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"సిస్టమ్"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"పరికరాలు"</string>
+    <string name="network_pref">నెట్‌వర్క్</string>
+    <string name="new_label">కొత్తది</string>
+    <string name="no">కాదు</string>
+    <string name="none_label">ఏమీలేదు</string>
+    <string name="optional_hint">(ఐచ్చికం)</string>
+    <string name="other_pref">ఇతర</string>
+    <string name="password_label">సంకేతపదం</string>
+    <string name="pause_label">నిలుపు</string>
+    <string name="play_label">ఆడించు</string>
+    <string name="playback_history_label">ఆడింపు చరిత్ర</string>
+    <string name="podcast_settings_label">అమరికలు</string>
+    <string name="pref_autoUpdateIntervallOrTime_Disable">అచేతనించు</string>
+    <string name="pref_autoUpdateIntervallOrTime_every">ప్రతీ %1$s</string>
+    <string name="pref_episode_cache_unlimited">అపరిమితం</string>
+    <string name="pref_known_issues">తెలిసిన సమస్యలు</string>
+    <string name="pref_proxy_title">ప్రాక్సీ</string>
+    <string name="pref_theme_title_dark">నల్లని</string>
+    <string name="pref_theme_title_light">లేత</string>
+    <string name="pref_update_interval_hours_plural">గంటలు</string>
+    <string name="pref_update_interval_hours_singular">గంట</string>
+    <string name="proxy_type_label">రకం</string>
+    <string name="rating_later_label">తర్వాత గుర్తుచేయి</string>
+    <string name="remove_label">తొలగించు</string>
+    <string name="retry_label">మళ్ళీ ప్రయత్నించు</string>
+    <string name="save_username_password_label">వాడుకరి పేరునీ సంకేతపదాన్నీ భద్రపరచు</string>
+    <string name="search_label">వెతుకు</string>
+    <string msgid="146198913615257606" name="search_menu_title">"వెతుకు"</string>
+    <string name="select_all_label">అన్నీ ఎంచుకోండి</string>
+    <string name="send_label">పంపించు…</string>
+    <string name="settings_label">అమరికలు</string>
+    <string name="share_label">పంచుకోండి…</string>
+    <string name="show_info_label">సమాచారం చూపించు</string>
+    <string name="size_prefix">పరిమాణం:\u0020</string>
+    <string name="statistics_label">గణాంకాలు</string>
+    <string name="statistics_mode">గణాంకాల రీతి</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_label">ఆపివేయి</string>
+    <string name="subscriptions_label">చందాలు</string>
+    <string name="subscriptions_list_label">చందాల జాబితా</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="time_hours">గంటలు</string>
+    <string name="time_minutes">నిమిషాలు</string>
+    <string name="time_seconds">క్షణాలు</string>
+    <string name="username_label">వాడుకరి పేరు</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ఆఫ్ చేయండి"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ఆన్ చేయండి"</string>
+    <string name="yes">అవును</string>
+</resources>
